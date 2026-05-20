@@ -1,7 +1,0 @@
-A planilha usada neste modelo é privada.
-
-Para finalizar:
-- Crie um Apps Script na própria planilha
-- Cole PRIVATE_RSVP_BACKEND_TEMPLATE.js
-- Implante como aplicativo da Web
-- Copie a URL e cole em RSVP_BACKEND_URL no index.html
